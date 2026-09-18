@@ -11,4 +11,4 @@ My newest fascination, which steeled my resolve in Linux, networking, and securi
 ## What I'm looking for
 Remote roles in IT, cybersecurity, or managed services. Always glad to connect with people in the field, and pointers on projects or open-source work worth contributing to are welcome!
 
-LinkedIn: (https://linkedin.com/in/trizzy71)
+- [My LinkedIn](https://linkedin.com/in/trizzy71)
