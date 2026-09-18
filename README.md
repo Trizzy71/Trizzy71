@@ -1,14 +1,14 @@
-## Yo!
+## Yo! I'm Tristan. Thank you for checking out my profile!
 
-I am a tech enthusiast currently working as an A/V and IT Technician. I hold constant learning near and dear to my heart and I try my best to never let myself become complacent. Use it or lose it, they say!
+I am an A/V and IT technician. Day to day I install and configure IP camera systems, PoE networking, and access control in commercial and healthcare environments. I hold constant learning near and dear to my heart and try my best to never let myself become complacent. 
 
-My newest fascination has been the work detailed in *The Purely Functional Software Deployment Model*. Despite already daily driving Arch, this paper steeled my resolve to become proficient in Linux (NixOS), Networking, and now learning Cybersecurity. It is so clear to me now that we **MUST** have secure, stable, and performant systems moving into the future. I would like to help with that in any way possible, for now I am mostly just grinding, honing my skills and learning ability, trying to get a decent remote job or even start my own business!
+My newest fascination, which steeled my resolve in Linux, networking, and security, was Eelco Dolstra's thesis, *The Purely Functional Software Deployment Model*. I was already daily-driving Arch, but the idea of systems you can reproduce and roll back made me want to build my career around secure, performant, and stable infrastructure.
 
+## What I'm working on
+- [nix-config](https://github.com/Trizzy71/nix-config): multi-host NixOS and home-manager flake
+- [cybersecurity-progress](https://github.com/Trizzy71/cybersecurity-progress): Google Cybersecurity Certificate (completed Aug 2026), Security+ in progress
 
-## Get In Touch!
+## What I'm looking for
+Remote roles in IT, cybersecurity, or managed services. Always glad to connect with people in the field, and pointers on projects or open-source work worth contributing to are welcome!
 
-I'm looking for help with networking and getting more involved in the space. I am a long-time hobbyist trying to transform my knowledge into move business-available skills. If anyone can help me out networking in the space or pointing my efforts in positive directions (building my own projects, assisting in open-source development), please reach out!
-
-LinkedIn: https://www.linkedin.com/in/trizzy71
-
-## Thank you for checking out my profile!
+LinkedIn: (https://linkedin.com/in/trizzy71)
