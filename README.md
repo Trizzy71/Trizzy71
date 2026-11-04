@@ -8,7 +8,7 @@ I'm building toward a career in secure, performant, and stable infrastructure.
 I was already daily-driving Arch when I read Eelco Dolstra's thesis, *The purely Functional Software Deployment Model*. The idea of systems you can reproduce and roll back changed how I think about infrastructure, and it's the reason Linux, networking, and security became the center of my career plans rather than just a hobby.
 
 ## What I'm working on
-- [building-documents](https://github.com/Trizzy71/buiding-documents): Homelab and things
+- [building-documents](https://github.com/Trizzy71/building-documents): Homelab and things
 - [nix-config](https://github.com/Trizzy71/nix-config): Multi-host NixOS and home-manager flake
 - [cybersecurity-progress](https://github.com/Trizzy71/cybersecurity-progress): Google Cybersecurity Certificate (completed Aug 2026), Security+ in progress
 
