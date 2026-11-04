@@ -11,7 +11,7 @@ I was already daily-driving Arch when I read Eelco Dolstra's thesis, *The purely
 - [building-documents](https://github.com/Trizzy71/building-documents): Homelab and things
 - [nix-config](https://github.com/Trizzy71/nix-config): Multi-host NixOS and home-manager flake
 - [cybersecurity-progress](https://github.com/Trizzy71/cybersecurity-progress): Google Cybersecurity Certificate (completed Aug 2026), Security+ in progress
-  - [sec-plus-readiness-spa](https://github.com/Trizzy71/cybersecurity-progress): Study tool I made
+  - [sec-plus-readiness-spa](https://github.com/Trizzy71/sec-plus-readiness-spa): Study tool I made
 
 ## What I'm looking for
 Remote roles in IT, cybersecurity, or managed services. Always glad to connect with people in the field, and pointers on projects or open-source work worth contributing to are welcome!
